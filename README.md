@@ -13,6 +13,10 @@ I enjoy building practical projects that combine programming, data, databases, a
 - I am familiar with working as a team and acting as team leader to take responsibility for project organisation and management.
 - I love to solve problems, learn new things and am never afraid to ask for help, fail or ask to be taught things.
 
+### Fun Facts:
+- I own a popular soundcloud account where I edit songs and one has over 1 million plays [Click here](https://soundcloud.com/feralfeline/eyedress-jealous-slowed)
+- I have a qualification in Bartending and Mixology
+
 ## My Technical Skills ★★
 ### Languages
 
