@@ -49,8 +49,3 @@ I enjoy building practical projects that combine programming, data, databases, a
 `UI/UX Design` `Web Design` `Wireframing` `Prototyping` `Responsive Design` `Interface Design`
 
 I love to combine my knowledge of software development with my creative knowledge in digital media.
-
-## Why choose me? ★★★
-- I believe the reason you should consider me as a candidate is because of my strong perseverance and unshakable tenacity. I do not believe in dead-ends or road blocks but opportunities that haven't appeared yet, I do not give up in the face of adversity as well.
-- I do not see failure as a bad thing but actually just the same as success, failure shows things that success couldn't like errors in code, bugs or even help come up with features I would've never considered it actually helps show projects and work in a different angle.
-- I'm not scared to ask for help or to be shown how to do something, I like to make sure I am getting 100% of the information and leave nothing in the air.
